@@ -17,7 +17,7 @@
 		    }
 		}
 
-	// init();
+
   document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("grid").addEventListener("click", set, false);
   });
