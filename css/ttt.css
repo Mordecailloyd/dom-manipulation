@@ -18,19 +18,13 @@
   border-width: 3px;
   /*border-style: inset;*/
   border-style: solid;
+  text-align: center;
+  font-size: 60px;
 }
 .cell:hover {
   background: yellow;
 }
+
 .coloredcell {
   background: red;
-}
-.x,.o{
-  text-align: center;
-  font-size: 60px;
-}
-
-
-.postscript {
-
 }
