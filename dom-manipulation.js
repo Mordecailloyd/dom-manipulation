@@ -21,3 +21,7 @@
   document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("grid").addEventListener("click", set, false);
   });
+
+
+// document.getElementById("grid").foreach.innerHTML = ""
+ // logic for resetting game - didn't get to finish it
